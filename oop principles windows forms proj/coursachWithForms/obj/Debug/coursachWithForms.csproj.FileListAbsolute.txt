@@ -1,0 +1,10 @@
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\bin\Debug\coursachWithForms.exe.config
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\bin\Debug\coursachWithForms.exe
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\bin\Debug\coursachWithForms.pdb
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\obj\Debug\coursachWithForms.csprojAssemblyReference.cache
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\obj\Debug\coursachWithForms.Form1.resources
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\obj\Debug\coursachWithForms.Properties.Resources.resources
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\obj\Debug\coursachWithForms.csproj.GenerateResource.cache
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\obj\Debug\coursachWithForms.csproj.CoreCompileInputs.cache
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\obj\Debug\coursachWithForms.exe
+C:\Users\Dionis\source\repos\coursachWithForms\coursachWithForms\obj\Debug\coursachWithForms.pdb
